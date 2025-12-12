@@ -12,7 +12,7 @@ If you want to clean everything and recompile the archive, run the command: `mak
 
 # Resources
 - Unix manual (`man printf` command in a Unix terminal)
-- [w3schools](https://www.w3schools.com/c/ref_stdio_printf.php)
+- [w3schools](https://www.w3schools.com/c/ref_stdio_printf.php)'s printf manual
 
 No AI were used during this project.
 
